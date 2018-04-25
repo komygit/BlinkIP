@@ -1,0 +1,8 @@
+# Backups #
+*.bak
+
+# elf files #
+*.elf
+
+# lib directory #
+lib/
